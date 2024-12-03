@@ -1382,7 +1382,6 @@ Contact
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 .nav .nav-link.active {
     text-decoration: underline;
     text-decoration-thickness: 4px;
@@ -1391,115 +1390,5 @@ Contact
 
 
 
-
-
-/* Extra Large Screens (1200px and up) */
-@media (min-width: 1200px) {
-    /* General Styles for Extra Large Screens */
-    body {
-        font-size: 18px; /* Adjust base font size */
-    }
-
-    #buttons {
-        font-size: 35px; /* Increase button font size */
-        padding: 15px; /* Increase padding */
-    }
-
-    .nav-link {
-        font-size: 18px; /* Increase nav link font size */
-        padding: 15px 20px; /* Increase padding */
-    }
-
-    .slider-img img {
-        height: 500px; /* Adjust slider image height */
-    }
-
-    .serviceinfo1 {
-        max-width: 500px; /* Increase max width for service info */
-    }
-
-    .about4 {
-        height: 400px; /* Increase height for about section */
-        width: 400px; /* Increase width for about section */
-    }
-
-    .footer-widget h3 {
-        font-size: 28px; /* Increase footer heading size */
-    }
-
-    .footer-widget p {
-        font-size: 18px; /* Increase footer paragraph size */
-    }
-
-    .contact-info h3 {
-        font-size: 24px; /* Increase contact info heading size */
-    }
-
-    /* Add more specific styles as needed */
-}
-
-/* Extra Extra Large Screens (1400px and up) */
-@media (min-width: 1400px) {
-    /* Further adjustments for larger screens */
-    body {
-        font-size: 20px; /* Further increase base font size */
-    }
-
-    #buttons {
-        font-size: 40px; /* Further increase button font size */
-        padding: 20px; /* Further increase padding */
-    }
-
-    .nav-link {
-        font-size: 20px; /* Further increase nav link font size */
-    }
-
-    .slider-img img {
-        height: 600px; /* Further adjust slider image height */
-    }
-
-    .serviceinfo1 {
-        max-width: 600px; /* Further increase max width for service info */
-    }
-
-    .about4 {
-        height: 450px; /* Further increase height for about section */
-        width: 450px; /* Further increase width for about section */
-    }
-
-    /* Add more specific styles as needed */
-}
-
-/* Extra Extra Extra Large Screens (1600px and up) */
-@media (min-width: 1600px) {
-    /* Additional adjustments for very large screens */
-    body {
-        font-size: 22px; /* Further increase base font size */
-    }
-
-    #buttons {
-        font-size: 45px; /* Further increase button font size */
-        padding: 25px; /* Further increase padding */
-    }
-
-    .nav-link {
-        font-size: 22px; /* Further increase nav link font size */
-    }
-
-    .slider-img img {
-        height: 700px; /* Further adjust slider image height */
-    }
-
-    .serviceinfo1 {
-        max-width: 700px; /* Further increase max width for service info */
-    }
-
-    .about4 {
-        height: 500px; /* Further increase height for about section */
-        width: 500px; /* Further increase width for about section */
-    }
-
-    /* Add more specific styles as needed */
-}
 
 
